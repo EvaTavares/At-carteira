@@ -15,7 +15,7 @@ const Welcome: React.FC = () => {
     <Grid container justifyContent={'center'}>
       <Grid item sm={6} xs={12} sx={{ textAlign: 'center', color: { xs: '#333', sm: '#fff' } }}>
         <Typography variant="h3">Bem vindo!</Typography>
-        <Typography variant="h6">Esta é sua aplicaçnao para cadastrar seus contatos.</Typography>
+        <Typography variant="h6">Esta é sua aplicaçnao para cadastrar suas transações bancárias.</Typography>
         <CircularProgress />
       </Grid>
     </Grid>

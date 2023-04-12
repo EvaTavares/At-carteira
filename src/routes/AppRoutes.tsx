@@ -15,7 +15,7 @@ const AppRoutes: React.FC = () => {
       <Routes>
         <Route path="/" element={<WelcomeLayout component={Welcome} />} />
         <Route path="/home" element={<DefaultLayout component={Home} />} />
-        <Route path="/add-contact" element={<DefaultLayout component={AddContact} />} />
+        <Route path="/add-transaction" element={<DefaultLayout component={AddContact} />} />
         <Route path="/edit-contact/:id" element={<DefaultLayout component={EditContact} />} />
         <Route path="/counter" element={<DefaultLayout component={Counter} />} />
       </Routes>

@@ -1,3 +1,3 @@
-const routes = [{ label: 'Cadastrar', url: '/add-contact' }];
+const routes = [{ label: 'Adicionar Transação', url: '/add-transaction' }];
 
 export default routes;

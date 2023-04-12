@@ -55,7 +55,7 @@ function ResponsiveAppBar() {
                 textDecoration: 'none'
               }}
             >
-              Meus contatos
+              Minhas transações
             </Typography>
           </Badge>
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
